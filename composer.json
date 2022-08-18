@@ -1,6 +1,6 @@
 {
     "name": "proyecto/menu",
-    "description": "Menu materialize para proyectos laravel Lipu",
+    "description": "Menu materialize para sistemas internos Lipu",
     "type": "library",
     "license": "MIT",
     "autoload": {
@@ -14,5 +14,6 @@
             "email": "r.hernandez@lidcorp.mx"
         }
     ],
+    "minimum-stability": "stable",
     "require": {}
 }
